@@ -84,6 +84,6 @@ GitHub: https://github.com/yellavani15
 
 ---
 
-## ⭐ Acknowledgment
+##  Acknowledgment
 
 This project was created as part of learning Python and data handling concepts.
