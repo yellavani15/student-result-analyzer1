@@ -1,22 +1,22 @@
-# 🎓 Student Result Analyzer
+#  Student Result Analyzer
 
-## 📌 Overview
+##  Overview
 
 The **Student Result Analyzer** is a Python-based project designed to process and analyze student academic data from a CSV file. It calculates averages, assigns grades, and identifies top-performing students efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📊 Calculate average marks for each student
-* 🏆 Identify class topper
-* 📝 Assign grades based on performance
-* 📈 Subject-wise analysis (if multiple subjects available)
-* ⚠️ Handles invalid or missing data (if implemented)
+*  Calculate average marks for each student
+*  Identify class topper
+*  Assign grades based on performance
+*  Subject-wise analysis (if multiple subjects available)
+*  Handles invalid or missing data (if implemented)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python
 * **Libraries:** CSV (built-in)
@@ -24,7 +24,7 @@ The **Student Result Analyzer** is a Python-based project designed to process an
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 student-result-analyzer/
@@ -35,7 +35,7 @@ student-result-analyzer/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -57,18 +57,18 @@ python main.py
 
 ---
 
-## 📊 Sample Output
+##  Sample Output
 
 ```
 Name: John | Average: 85 | Grade: A
 Name: Alice | Average: 78 | Grade: B
 
-🏆 Topper: John with 85 marks
+Topper: John with 85 marks
 ```
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add graphical representation using matplotlib
 * Build a simple user interface (CLI menu or GUI)
@@ -77,7 +77,7 @@ Name: Alice | Average: 78 | Grade: B
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Vani**
 GitHub: https://github.com/yellavani15
